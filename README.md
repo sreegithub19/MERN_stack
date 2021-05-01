@@ -1,4 +1,4 @@
-Steps to run GERN_stack (G:Github, E:Express, R:React, N:Node.js):<br>
+Steps to run MERN_stack (M:MongoDB, E:Express, R:React, N:Node.js):<br>
 (1) Commands to run the app:<br>
     &nbsp;&nbsp;&nbsp;&nbsp;(i) npm install express-generator -g<br>
     &nbsp;&nbsp;&nbsp;&nbsp;(ii) npm install -g express<br>
@@ -14,4 +14,4 @@ Steps to run GERN_stack (G:Github, E:Express, R:React, N:Node.js):<br>
     &nbsp;&nbsp;&nbsp;&nbsp;(ii) npm install<br>
     &nbsp;&nbsp;&nbsp;&nbsp;(iii) npm start<br>
 (8) The app starts running at: http://localhost:3000/jetpunk.html<br>
-(9) The links of the files belonging to the "jetpunk_github_files" folder have been used directly from the "jetpunk_github_files" folder uploaded here in github, which enables Github to act as a database for some of our code files, hence the name GERN. (All the files belonging to the jetpunk webpage cannot be used in a similar way due to CORS issues. The files producing CORS issues should be saved in our system under the folder name "jetpunk").<br>
+(9) The links of the files belonging to the "jetpunk_github_files" folder have been used directly from the "jetpunk_github_files" folder uploaded here in github, which enables Github to act as a database for some of our code files(All the files belonging to the jetpunk webpage cannot be used in a similar way due to CORS issues. The files producing CORS issues should be saved in our system under the folder name "jetpunk"). The github project is connected to MongoDB, hence covering all the 4 technologies of MERN stack.<br>
