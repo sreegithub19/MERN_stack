@@ -15,3 +15,7 @@ Steps to run MERN_stack (M:MongoDB, E:Express, R:React, N:Node.js):<br>
     &nbsp;&nbsp;&nbsp;&nbsp;(iii) npm start<br>
 (8) The app starts running at: http://localhost:3000/jetpunk.html<br>
 (9) The links of the files belonging to the "jetpunk_github_files" folder have been used directly from the "jetpunk_github_files" folder uploaded here in github, which enables Github to act as a database for some of our code files(All the files belonging to the jetpunk webpage cannot be used in a similar way due to CORS issues. The files producing CORS issues should be saved in our system under the folder name "jetpunk"). This github project is synced with MongoDB, hence covering all the 4 technologies of MERN stack.<br>
+(10) 
+     &nbsp;&nbsp;&nbsp;&nbsp;(i) MongoDB project name and link : Github_Integration (https://cloud.mongodb.com/v2/608cf43d7674d77d3ad2a205#clusters) <br>
+     &nbsp;&nbsp;&nbsp;&nbsp;(ii) MongoDB Cluster name and link: RealmCluster (https://cloud.mongodb.com/v2/608cf43d7674d77d3ad2a205#clusters/detail/RealmCluster) <br>
+     &nbsp;&nbsp;&nbsp;&nbsp;(iii) MongoDB deployment page showing the syncing of Github and MongoDB:(https://realm.mongodb.com/groups/608cf43d7674d77d3ad2a205/apps/608cf4c491df81692a04a638/deployment/config)
