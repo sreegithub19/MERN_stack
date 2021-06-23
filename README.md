@@ -15,7 +15,7 @@ Steps to run MERN_stack (M:MySQL, E:Express, R:React, N:Node.js) (I have used My
     &nbsp;&nbsp;&nbsp;&nbsp;(i) npm init   -  to create package.json file<br>
     &nbsp;&nbsp;&nbsp;&nbsp;(ii) npm install   -  to create package-lock.json<br>
     &nbsp;&nbsp;&nbsp;&nbsp;(iii) concurrently "node app.js" "node app_1.js" "node app_2.js" <br>
-(10) The app starts running at: http://localhost:3000/jetpunk.html<br>
+(10) The app starts running at: http://localhost:3000/<br>
 (11) The links of the files belonging to the "jetpunk_github_files" folder have been used directly from the "jetpunk_github_files" folder uploaded here in github, which enables Github to act as a database for some of our code files(All the files belonging to the jetpunk webpage cannot be used in a similar way due to CORS issues. The files producing CORS issues should be saved in our system under the folder name "jetpunk").<br>
 (12) Mysql and Mysql workbench should be installed in our system. Some of the values in the web page have been stored in the MySQL database and have been retrieved from there.<br>
 <br>
