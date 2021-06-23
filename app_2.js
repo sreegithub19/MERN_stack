@@ -1,6 +1,6 @@
 /*
-//     http://localhost:3000/jetpunk.html
-//    concurrently "node app.js" "node app_1.js"
+//     http://localhost:3002/jetpunk.html
+//    concurrently "node app.js" "node app_1.js" "node app_2.js"
 */
 // http://localhost:3000/people   - to run the app
 // http://localhost:3000/fetch?url=Your URL here
@@ -13,6 +13,7 @@ const mysqlConnection = require("./connection");
 const PeopleRoutes = require("./routes/people");
 const PeopleRoutes_1 = require("./routes/people_1");
 const PeopleRoutes_2 = require("./routes/people_2");
+const open = require('open');
 var app = express();
 //const port = process.env.PORT || 5000;
 
