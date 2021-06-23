@@ -25,6 +25,7 @@ const mysqlConnection = require("./connection");
 const PeopleRoutes = require("./routes/people");
 const PeopleRoutes_1 = require("./routes/people_1");
 const PeopleRoutes_2 = require("./routes/people_2");
+const open = require('open');
 var app = express();
 //const port = process.env.PORT || 5000;
 
